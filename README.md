@@ -1,2 +1,2 @@
-# kumail2
+# Data Visualization
 This is my Data Visualization - Project
